@@ -1,2 +1,1 @@
-Patata
-# thalis-ap.github.io
+# Patata
